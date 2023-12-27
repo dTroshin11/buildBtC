@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.89c03403.css",
+    "main.css": "./static/css/main.6c957df2.css",
     "main.js": "./static/js/main.6ce14ed2.js",
     "static/media/Manrope-Regular.woff2": "./static/media/Manrope-Regular.405ae32ab274e59d4eee.woff2",
     "static/media/Manrope-Regular.woff": "./static/media/Manrope-Regular.2046a49b5fa996c43f44.woff",
     "index.html": "./index.html",
     "static/media/checkbox.svg": "./static/media/checkbox.d92f3164b5b8bb2b0b9a.svg",
-    "main.89c03403.css.map": "./static/css/main.89c03403.css.map",
+    "main.6c957df2.css.map": "./static/css/main.6c957df2.css.map",
     "main.6ce14ed2.js.map": "./static/js/main.6ce14ed2.js.map"
   },
   "entrypoints": [
-    "static/css/main.89c03403.css",
+    "static/css/main.6c957df2.css",
     "static/js/main.6ce14ed2.js"
   ]
 }
