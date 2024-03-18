@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.ac3c8c3a.css",
+    "main.css": "./static/css/main.cc892a82.css",
     "main.js": "./static/js/main.43980ce9.js",
     "static/media/Manrope-Regular.woff2": "./static/media/Manrope-Regular.405ae32ab274e59d4eee.woff2",
     "static/media/middleBg.png": "./static/media/middleBg.3beba4936a3cd7ebb001.png",
@@ -8,11 +8,11 @@
     "index.html": "./index.html",
     "static/media/formBg.svg": "./static/media/formBg.8b78f0c087d4e619aa85.svg",
     "static/media/checkbox.svg": "./static/media/checkbox.d92f3164b5b8bb2b0b9a.svg",
-    "main.ac3c8c3a.css.map": "./static/css/main.ac3c8c3a.css.map",
+    "main.cc892a82.css.map": "./static/css/main.cc892a82.css.map",
     "main.43980ce9.js.map": "./static/js/main.43980ce9.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac3c8c3a.css",
+    "static/css/main.cc892a82.css",
     "static/js/main.43980ce9.js"
   ]
 }
